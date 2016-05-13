@@ -16,6 +16,7 @@
  * 02111-1307, USA.
  */
 
+#define _SYS_UCONTEXT_H
 
 #include "sysdep.h"
 
